@@ -1,8 +1,8 @@
-# Jardim Secreto - demonstração de interface
+# Jardim Secreto - interface de portfólio
 
-Projeto de portfólio de Marcos Mariano: uma demonstração front-end responsiva para apresentar o conceito visual do Jardim Secreto. O repositório contém HTML, CSS e JavaScript autorais, sem dependências, credenciais, capturas integrais ou arquivos de produção de terceiros.
+Projeto de portfólio de Marcos Mariano: uma interface front-end responsiva para apresentar o conceito visual do Jardim Secreto. O repositório contém HTML, CSS e JavaScript autorais, sem dependências, credenciais, capturas integrais ou arquivos de produção de terceiros.
 
-## O que demonstra
+## Recursos
 
 - Composição responsiva com identidade visual de inspiração botânica.
 - Navegação acessível por teclado e menu móvel.
@@ -21,6 +21,6 @@ Depois, abra `http://localhost:4176/`.
 
 ## Escopo e autoria
 
-Esta é uma **demonstração independente de portfólio**, não o site oficial nem uma cópia integral do projeto de produção. Não inclui cardápio, fotos, logotipos, fontes, documentos ou integrações de terceiros. Reservas, pedidos e pagamentos não são executados aqui. O projeto original e seus materiais de origem permanecem fora deste repositório.
+Esta é uma **versão independente de portfólio**, não o site oficial nem uma cópia integral do projeto de produção. Não inclui cardápio, fotos, logotipos, fontes, documentos ou integrações de terceiros. Reservas, pedidos e pagamentos não são executados aqui. O projeto original e seus materiais de origem permanecem fora deste repositório.
 
-Não há licença de reutilização concedida para o código e a identidade desta demonstração.
+Não há licença de reutilização concedida para o código e a identidade desta versão.
